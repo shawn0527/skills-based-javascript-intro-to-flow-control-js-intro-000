@@ -28,4 +28,3 @@ function ageChecker(age){
   }
   else{}
 }
-
